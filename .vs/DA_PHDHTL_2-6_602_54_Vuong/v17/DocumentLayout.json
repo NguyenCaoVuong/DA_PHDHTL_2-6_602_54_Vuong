@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|c:\\users\\dell\\documents\\zalo received files\\doan\\da_phdhtl_2-6_602_54_vuong\\da_phdhtl_2-6_602_54_vuong_pheptoan\\pheptoan_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_pheptoan\\pheptoan_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\da_phdhtl_2-6_602_54_vuong_webdriver\\webdriver_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_webdriver\\webdriver_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\da_phdhtl_2-6_602_54_vuong_webdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_webdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\da_phdhtl_2-6_602_54_vuong_pheptoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_pheptoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27D2E4-A802-4060-BCAB-A4386B21B58F}|WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\webdriver_tester_54_vuong\\webdriver_tester_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27D2E4-A802-4060-BCAB-A4386B21B58F}|WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.csproj|solutionrelative:webdriver_tester_54_vuong\\webdriver_tester_54_vuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\da_phdhtl_2-6_602_54_vuong_pheptoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2529F30-2340-4AC6-820F-9AE2FC71B823}|DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_pheptoan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\da_phdhtl_2-6_602_54_vuong_webdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4FEEE23-E96A-48F0-A5B2-785814EA1433}|DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver.csproj|solutionrelative:da_phdhtl_2-6_602_54_vuong_webdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhepToan_54_Vuong.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\PhepToan_54_Vuong.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\PhepToan_54_Vuong.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\PhepToan_54_Vuong.cs",
+              "RelativeToolTip": "DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\PhepToan_54_Vuong.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwDoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:26:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebDriver_Tester_54_Vuong.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.cs",
+              "RelativeDocumentMoniker": "WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.cs",
+              "RelativeToolTip": "WebDriver_Tester_54_Vuong\\WebDriver_Tester_54_Vuong.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:42:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebDriver_54_Vuong.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\WebDriver_54_Vuong.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\WebDriver_54_Vuong.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\WebDriver_54_Vuong.cs",
+              "RelativeToolTip": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\WebDriver_54_Vuong.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:37:24.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "RelativeToolTip": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIA6wD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:30:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs [Design]",
+              "RelativeToolTip": "DA_PHDHTL_2-6_602_54_Vuong_WebDriver\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:30:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "RelativeToolTip": "DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAArwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:30:26.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\DoAn\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "RelativeDocumentMoniker": "DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\DA_PHDHTL_2-6_602_54_Vuong\\DA_PHDHTL_2-6_602_54_Vuong_PhepToan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:30:22.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
